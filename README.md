@@ -2,4 +2,4 @@
 
 ## Week 0
 - Set up GitHub Account and paste repository link to NTU Cool Profile
-- Re-run example code from TA and add comments
+- Re-run example code from TA and draw flow chart
