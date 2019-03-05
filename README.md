@@ -1,4 +1,4 @@
-# CSX_Data_Science_Programming_Spring_2019
+# CSX Data Science Programming (Spring 2019)
 
 ## Week 0
 - Set up GitHub Account and paste repository link to NTU Cool Profile
