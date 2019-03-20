@@ -19,3 +19,5 @@
 
 ## Week 4
 - Exploratory data analysis (EDA)
+- Analyze data provided by Nan Shan Life Insurance
+- Use scatter plots and barcharts to show relationship and comparisons
