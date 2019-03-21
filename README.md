@@ -19,5 +19,11 @@
 
 ## Week 4
 - Exploratory data analysis (EDA)
-- Analyze data provided by Nan Shan Life Insurance
+- HW1 Analyze data provided by Nan Shan Life Insurance
+- Read csv files and organize data into dataframes
 - Use scatter plots and barcharts to show relationship and comparisons
+
+## Week 5
+- Visit projects completed by senior classamates
+- Project: Taipei Municipal Election, analysis on social media engagement and news article references
+- HW2 Based on the data provided by Nan Shan Life Insurance, identify three questions that can be answers with visualized data
