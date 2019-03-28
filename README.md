@@ -6,7 +6,6 @@
 - HW 0: Re-run example code from TA and draw flow chart 
 - Link to diagram: https://drive.google.com/file/d/1HxfF6ySP4z-A0PA7xFfC37TI4pCtO4er/view?usp=sharing
 
-
 ## Week 1
 - Set up GitHub Account and paste repository link to NTU Cool Profile
 
@@ -29,4 +28,8 @@
 - HW2 Based on the data provided by Nan Shan Life Insurance, identify three questions that can be answers with visualized data
 
 ## Week 6 
-- Nanshan Life Insurance Lecture: Data analysis and Fintech for facilitating the design of insruance products and improvement for insurance claim procedures
+- Nanshan Life Insurance Lecture: Data analysis and Fintech - facilitating the design of insruance products and improving insurance claim procedures
+- Reseach questions:
+	1. What are some of the qualities of potential clients
+	2. Relationship between recent claims/nominal amount and repurchases
+	3. What are the best products for clients
