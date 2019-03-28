@@ -27,3 +27,6 @@
 - Visit projects completed by senior classamates
 - Project: Taipei Municipal Election, analysis on social media engagement and news article references
 - HW2 Based on the data provided by Nan Shan Life Insurance, identify three questions that can be answers with visualized data
+
+## Week 6 
+- Nanshan Life Insurance Lecture: Data analysis and Fintech for facilitating the design of insruance products and improvement for insurance claim procedures
