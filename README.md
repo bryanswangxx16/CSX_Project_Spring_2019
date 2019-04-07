@@ -33,3 +33,7 @@
 	1. What are some of the qualities of potential clients
 	2. Relationship between recent claims/nominal amount and repurchases
 	3. What are the best products for clients
+	
+## Week 7 
+- No class 
+- Complete HW 1~3
