@@ -37,3 +37,7 @@
 ## Week 7 
 - No class 
 - Complete HW 1~3
+
+## Week 8 
+- Homework sharing: identify research questions and EDA process
+- Machine learning and deep learning lecture
