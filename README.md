@@ -42,6 +42,6 @@
 - Homework sharing: identify research questions and EDA process
 - Machine learning and deep learning lecture
 
-## Week 9
+## Week 9 ~ 11
 - Introduction to statistical analysis and named entity recognition 
 
