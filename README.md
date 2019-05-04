@@ -44,4 +44,5 @@
 
 ## Week 9 ~ 11
 - Introduction to statistical analysis and named entity recognition 
+- Word to vector, PCA, K-means, Apriori algorithms
 
