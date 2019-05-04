@@ -43,6 +43,6 @@
 - Machine learning and deep learning lecture
 
 ## Week 9 ~ 11
+- Word to vector, PCA, SVM, K-means, Apriori algorithms
 - Introduction to statistical analysis and named entity recognition 
-- Word to vector, PCA, K-means, Apriori algorithms
 
